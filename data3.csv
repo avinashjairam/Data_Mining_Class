@@ -1,4 +1,4 @@
-cluster,Gender,Age,Ethnicity,Income,Work_Hours,Health_Condition,Education,Motivation,Attitude,Intention,Ownership,,1,ER,2,ER,3,ER,4,ER,5,ER,6,ER,7,ER,8,ER,9,ER,10,ER,11,ER,12,ER,13,ER,14,ER,15,ER,16 Recommendation,Actual ER,17 Recommendation,Actual ER,18 Recommendation,Estimated ER
+cluster,Gender,Age,Ethnicity,Income,Work_Hours,Health_Condition,Education,Motivation,Attitude,Intention,Ownership,,1,ER,2,ER,3,ER,4,ER,5,ER,6,ER,7,ER,8,ER,9,ER,10,ER,11,ER,12,ER,13,ER,14,ER,15,ER,16,ER,17,ER,18,ER
 2,Female,63,Caucasian,"0-24,999",50+ hrs/week,Excellent,2-year college degree,0.1475109276,0.5931615583,0.5741586229,0.9286284722,,diet,0,Phy,0.1428571429,Phy,0,Phy,0.5714285714,Phy,0,Phy,0,Phy,0,Phy,0,Phy,0,Phy,0,Phy,0,Phy,0,diet,1,phy,1,,,,,,,,
 9,Female,62,African American,"50,000-99,999",1-15 hrs/week,Good,4-year college degree,0.5941193599,0.5634959703,0.6598093647,0.8204542483,,diet,0.2857142857,diet,1,Phy,0.4705882353,diet,0.9,phy,0.9166666667,,,,,,,,,,,,,,,,,,,,,,,,,,
 2,Male,59,Caucasian,"50,000-99,999",36-50 hrs/week,Fair,4-year college degree,0.7606024253,0.5419509263,0.750184324,0.6647561547,,phy,0.05882352941,diet,0.5,diet,0.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
