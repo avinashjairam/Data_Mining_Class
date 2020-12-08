@@ -1,0 +1,9 @@
+cluster,Gender,Age,Ethnicity,Income,Work_Hours,Health_Condition,Education,Motivation,Attitude,Intention,Ownership,,1,ER,2,ER,3,ER,4,ER,5,ER,6,ER,7,ER,8,ER,9,ER,10,ER,11,ER,12,ER,13,ER,14,ER,15,ER,16, ER
+2,Female,63,Caucasian,"0-24,999",50+ hrs/week,Excellent,2-year college degree,0.1475109276,0.5931615583,0.5741586229,0.9286284722,,diet,0,Phy,0.1428571429,Phy,0,Phy,0.5714285714,Phy,0,Phy,0,Phy,0,Phy,0,Phy,0,Phy,0,Phy,0,Phy,0,diet,1,phy,1,diet,0.3333333333,diet,0.5714285714
+0,Female,37,African American,"0-24,999",1-15 hrs/week,Fair,"Some college, but no degree",0.4920412394,0.5866254953,0.6450837323,0.7990522484,,Phy,0,diet,0,phy,0,diet,0,diet,0,,,,,,,,,,,,,,,,,,,,,,
+9,Female,62,African American,"50,000-99,999",1-15 hrs/week,Good,4-year college degree,0.5941193599,0.5634959703,0.6598093647,0.8204542483,,diet,0.2857142857,diet,1,Phy,0.4705882353,diet,0.9,phy,0.9166666667,diet,1,diet,0.9,,,,,,,,,,,,,,,,,,
+2,Male,59,Caucasian,"50,000-99,999",36-50 hrs/week,Fair,4-year college degree,0.7606024253,0.5419509263,0.750184324,0.6647561547,,phy,0.05882352941,diet,0.5,diet,0.5,phy,0.75,diet,0.3,,,,,,,,,,,,,,,,,,,,,,
+1,Female,28,Asian,"50,000-99,999",50+ hrs/week,Good,4-year college degree,0.653542647,0.731371799,0.7514414508,0.9765970904,,phy,0.25,diet,0,diet,0.1,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,Male,60,Asian,"150,000-199,999",50+ hrs/week,Good,Some graduate work,0.7367078616,0.6754364248,0.7603423133,0.9745135246,,phy,0.1666666667,diet,0,diet,0.3,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,Female,47,Caucasian,"0-24,999",36-50 hrs/week,Very Good,4-year college degree,0.1316606947,0.4229503672,0.4175627223,0.7426005405,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Female,50,African American,"50,000-99,999",50+ hrs/week,Very Good,"Some college, but no degree",0.6398979477,0.6969257197,0.7042422251,0.6156845434,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
